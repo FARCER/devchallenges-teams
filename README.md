@@ -1,7 +1,7 @@
 <h1 align="center">DevChallenges - Teams</h1>
 
 <div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+   Solution for a challenge from <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
 </div>
 
 <div align="center">
@@ -27,9 +27,7 @@
 - [Overview](#overview)
   - [Built With](#built-with)
 - [Features](#features)
-- [How to use](#how-to-use)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
@@ -59,11 +57,6 @@ The [challenge](https://devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps) was to
 - [ ] User story: This is a incompleted user stories
 - [ ] User story: This is a incompleted 2nd user stories
 
-## How To Use
-
-To clone and run this application, you'll need [Git](https://git-scm.com) installed on your computer. From your command line:
-
-$ git clone https://github.com/your-user-name/your-project-name
 
 ## Contact
 
